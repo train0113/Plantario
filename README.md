@@ -2,7 +2,7 @@
 
 ![banner](https://img.shields.io/badge/Team-Zero-brightgreen) ![event](https://img.shields.io/badge/Event-KHUTHON2025-blue)
 
-> KHUTHON 2025 참가작  
+> KHUTHON 2025 우수상  
 > Flutter 기반 BLE(저전력 블루투스) 스마트 식물 관리 시스템
 
 ---
