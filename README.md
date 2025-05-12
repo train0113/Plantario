@@ -50,7 +50,7 @@ Arduino 센서 모듈을 통해 수집된 데이터를 실시간으로 시각화
 
 | 이름 | 역할 |
 |------|------|
-| 손창준 | Flutter 개발 / Firebase 연동 / Android Studio-Arduino간 연결 |
+| 손창준 | Flutter로 앱 개발 / Firebase 연동 / Android Studio-Arduino간 연결 |
 | 김세린 | 아두이노 설계 및 블루투스 송수신 구현 |
 | 조알렉스 | UI/UX 디자인 및 화면 구현 |
 
